@@ -1,0 +1,15 @@
+C:\Users\jefferson.acoelho\OneDrive - SENAC - SP\GITHUB\TDS02-UC6\Projetos\EstacionamentoConsole\MenuAplicacao\bin\Debug\net8.0\MenuAplicacao.exe
+C:\Users\jefferson.acoelho\OneDrive - SENAC - SP\GITHUB\TDS02-UC6\Projetos\EstacionamentoConsole\MenuAplicacao\bin\Debug\net8.0\MenuAplicacao.deps.json
+C:\Users\jefferson.acoelho\OneDrive - SENAC - SP\GITHUB\TDS02-UC6\Projetos\EstacionamentoConsole\MenuAplicacao\bin\Debug\net8.0\MenuAplicacao.runtimeconfig.json
+C:\Users\jefferson.acoelho\OneDrive - SENAC - SP\GITHUB\TDS02-UC6\Projetos\EstacionamentoConsole\MenuAplicacao\bin\Debug\net8.0\MenuAplicacao.dll
+C:\Users\jefferson.acoelho\OneDrive - SENAC - SP\GITHUB\TDS02-UC6\Projetos\EstacionamentoConsole\MenuAplicacao\bin\Debug\net8.0\MenuAplicacao.pdb
+C:\Users\jefferson.acoelho\OneDrive - SENAC - SP\GITHUB\TDS02-UC6\Projetos\EstacionamentoConsole\MenuAplicacao\obj\Debug\net8.0\MenuAplicacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jefferson.acoelho\OneDrive - SENAC - SP\GITHUB\TDS02-UC6\Projetos\EstacionamentoConsole\MenuAplicacao\obj\Debug\net8.0\MenuAplicacao.AssemblyInfoInputs.cache
+C:\Users\jefferson.acoelho\OneDrive - SENAC - SP\GITHUB\TDS02-UC6\Projetos\EstacionamentoConsole\MenuAplicacao\obj\Debug\net8.0\MenuAplicacao.AssemblyInfo.cs
+C:\Users\jefferson.acoelho\OneDrive - SENAC - SP\GITHUB\TDS02-UC6\Projetos\EstacionamentoConsole\MenuAplicacao\obj\Debug\net8.0\MenuAplicacao.csproj.CoreCompileInputs.cache
+C:\Users\jefferson.acoelho\OneDrive - SENAC - SP\GITHUB\TDS02-UC6\Projetos\EstacionamentoConsole\MenuAplicacao\obj\Debug\net8.0\MenuAplicacao.sourcelink.json
+C:\Users\jefferson.acoelho\OneDrive - SENAC - SP\GITHUB\TDS02-UC6\Projetos\EstacionamentoConsole\MenuAplicacao\obj\Debug\net8.0\MenuAplicacao.dll
+C:\Users\jefferson.acoelho\OneDrive - SENAC - SP\GITHUB\TDS02-UC6\Projetos\EstacionamentoConsole\MenuAplicacao\obj\Debug\net8.0\refint\MenuAplicacao.dll
+C:\Users\jefferson.acoelho\OneDrive - SENAC - SP\GITHUB\TDS02-UC6\Projetos\EstacionamentoConsole\MenuAplicacao\obj\Debug\net8.0\MenuAplicacao.pdb
+C:\Users\jefferson.acoelho\OneDrive - SENAC - SP\GITHUB\TDS02-UC6\Projetos\EstacionamentoConsole\MenuAplicacao\obj\Debug\net8.0\MenuAplicacao.genruntimeconfig.cache
+C:\Users\jefferson.acoelho\OneDrive - SENAC - SP\GITHUB\TDS02-UC6\Projetos\EstacionamentoConsole\MenuAplicacao\obj\Debug\net8.0\ref\MenuAplicacao.dll
