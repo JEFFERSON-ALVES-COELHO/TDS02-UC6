@@ -21,23 +21,53 @@ namespace EstacionamentoSenac.API.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
-            modelBuilder.Entity("EstacionamentoSenac.API.Models.Veiculo", b =>
+            modelBuilder.Entity("EstacionamentoSenac.API.Models.Motorista", b =>
                 {
-                    b.Property<int>("id")
+                    b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("id"));
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<string>("marca")
+                    b.Property<string>("Nome")
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("modelo")
+                    b.Property<int?>("VeiculoId")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("VeiculoId");
+
+                    b.ToTable("Motoristas");
+                });
+
+            modelBuilder.Entity("EstacionamentoSenac.API.Models.Veiculo", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Marca")
                         .HasColumnType("nvarchar(max)");
 
-                    b.HasKey("id");
+                    b.Property<string>("Modelo")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
 
                     b.ToTable("Veiculos");
+                });
+
+            modelBuilder.Entity("EstacionamentoSenac.API.Models.Motorista", b =>
+                {
+                    b.HasOne("EstacionamentoSenac.API.Models.Veiculo", "Veiculo")
+                        .WithMany()
+                        .HasForeignKey("VeiculoId");
+
+                    b.Navigation("Veiculo");
                 });
 #pragma warning restore 612, 618
         }

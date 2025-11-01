@@ -1,7 +1,5 @@
 ﻿using EstacionamentoSenac.API.Data;
 using EstacionamentoSenac.API.Models;
-using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Mvc;
 
 namespace EstacionamentoSenac.API.Controllers
@@ -47,7 +45,7 @@ namespace EstacionamentoSenac.API.Controllers
         [HttpPut("{id}")]
         public ActionResult<Veiculo> PutVeiculo(int id, Veiculo veiculoNovo)
         {
-            if (id != veiculoNovo.Id)
+            if (id != veiculoNovo.Id) 
                 return BadRequest("Veiculo informado na URL diferente do objeto JSON");
 
             var veiculoExistente = _context.Veiculos.Find(id);
@@ -56,7 +54,7 @@ namespace EstacionamentoSenac.API.Controllers
             // Atualizar de fato o veículo
             veiculoExistente.Marca = veiculoNovo.Marca;
             veiculoExistente.Modelo = veiculoNovo.Modelo;
-
+ 
             _context.SaveChanges();
             return NoContent();
         }
