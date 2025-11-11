@@ -62,7 +62,7 @@ namespace EstacionamentoSenac.API.Controllers
         }
 
         [HttpDelete("{id}")]
-        public ActionResult<Motorista> DeleteMotorista(int id)
+        public ActionResult<Motorista> DeleteMotorista (int id)
         {
             var motorista = _context.Motoristas.Find(id);
             if (motorista == null) return NotFound();
