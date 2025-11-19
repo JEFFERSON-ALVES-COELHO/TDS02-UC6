@@ -46,6 +46,13 @@ else
 }
 
 
+
 @code {
-   
+    List<Motorista>? motoristas;
+
+
+    protected override async Task OnInitializedAsync()
+    {
+        motoristas = await Http.GetFromJsonAsync<List<Motorista>>("https://localhost:4000/api/Motoristas");
+    }
 }

@@ -19,7 +19,10 @@ namespace EstacionamentoSenac.API.Controllers
         // GET: api/Motoristas
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Motorista>>> GetMotoristas()
-            => await _context.Motoristas.ToListAsync();
+        {
+            List<Motorista> motoristas = await _context.Motoristas.ToListAsync();
+            return motoristas;
+        }
 
         // GET: api/Motoristas/5
         [HttpGet("{id}")]

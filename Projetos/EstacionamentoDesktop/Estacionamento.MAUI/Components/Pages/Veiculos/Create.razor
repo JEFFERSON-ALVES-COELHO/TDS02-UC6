@@ -37,5 +37,11 @@
 </div>
 
 @code {
-   
+    Veiculo veiculo = new Veiculo();
+
+    async Task CraeteVeiculo()
+    {
+        await Http.PostAsJsonAsync("https://localhost:4000/api/Veiculos", veiculo);
+        NavigationManager.NavigateTo("/veiculos");
+    }
 }

@@ -49,5 +49,20 @@ else
 }
 
 @code {
-   
+    List<Registros>? registros;
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            registros = await Http.GetFromJsonAsync<List<Registros>>(
+                "https://localhost:4000/api/registros"
+            );
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine("Erro ao carregar registros: " + ex.Message);
+            registros = new List<Registros>();
+        }
+    }
 }
