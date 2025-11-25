@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\jefferson.acoelho\\OneDrive - SENAC - SP\\GITHUB\\TDS02-UC6\\Projetos\\EstacionamentoConsole\\",
+  "WorkspaceRootPath": "C:\\Users\\jefferson.acoelho\\Documents\\clone\\TDS02-UC6\\Projetos\\EstacionamentoConsole\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{67A35F96-F7E7-424C-A30E-8448846A646E}|MenuAplicacao\\MenuAplicacao.csproj|c:\\users\\jefferson.acoelho\\onedrive - senac - sp\\github\\tds02-uc6\\projetos\\estacionamentoconsole\\menuaplicacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67A35F96-F7E7-424C-A30E-8448846A646E}|MenuAplicacao\\MenuAplicacao.csproj|solutionrelative:menuaplicacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jefferson.acoelho\\Documents\\clone\\TDS02-UC6\\Projetos\\EstacionamentoConsole\\MenuAplicacao\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MenuAplicacao\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5C20551-F590-41D2-8A89-4CF22B3CAF1C}|EstacionamentoConsole\\EstacionamentoConsole.csproj|c:\\users\\jefferson.acoelho\\onedrive - senac - sp\\github\\tds02-uc6\\projetos\\estacionamentoconsole\\estacionamentoconsole\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C5C20551-F590-41D2-8A89-4CF22B3CAF1C}|EstacionamentoConsole\\EstacionamentoConsole.csproj|c:\\users\\jefferson.acoelho\\documents\\clone\\tds02-uc6\\projetos\\estacionamentoconsole\\estacionamentoconsole\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C5C20551-F590-41D2-8A89-4CF22B3CAF1C}|EstacionamentoConsole\\EstacionamentoConsole.csproj|solutionrelative:estacionamentoconsole\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5C20551-F590-41D2-8A89-4CF22B3CAF1C}|EstacionamentoConsole\\EstacionamentoConsole.csproj|c:\\users\\jefferson.acoelho\\onedrive - senac - sp\\github\\tds02-uc6\\projetos\\estacionamentoconsole\\estacionamentoconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C5C20551-F590-41D2-8A89-4CF22B3CAF1C}|EstacionamentoConsole\\EstacionamentoConsole.csproj|c:\\users\\jefferson.acoelho\\documents\\clone\\tds02-uc6\\projetos\\estacionamentoconsole\\estacionamentoconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C5C20551-F590-41D2-8A89-4CF22B3CAF1C}|EstacionamentoConsole\\EstacionamentoConsole.csproj|solutionrelative:estacionamentoconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jefferson.acoelho\\OneDrive - SENAC - SP\\GITHUB\\TDS02-UC6\\Projetos\\EstacionamentoConsole\\MenuAplicacao\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\jefferson.acoelho\\Documents\\clone\\TDS02-UC6\\Projetos\\EstacionamentoConsole\\MenuAplicacao\\Program.cs",
               "RelativeDocumentMoniker": "MenuAplicacao\\Program.cs",
-              "ToolTip": "C:\\Users\\jefferson.acoelho\\OneDrive - SENAC - SP\\GITHUB\\TDS02-UC6\\Projetos\\EstacionamentoConsole\\MenuAplicacao\\Program.cs",
+              "ToolTip": "C:\\Users\\jefferson.acoelho\\Documents\\clone\\TDS02-UC6\\Projetos\\EstacionamentoConsole\\MenuAplicacao\\Program.cs",
               "RelativeToolTip": "MenuAplicacao\\Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-06T23:03:12.02Z",
               "EditorCaption": ""
@@ -41,27 +41,25 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jefferson.acoelho\\OneDrive - SENAC - SP\\GITHUB\\TDS02-UC6\\Projetos\\EstacionamentoConsole\\EstacionamentoConsole\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\jefferson.acoelho\\Documents\\clone\\TDS02-UC6\\Projetos\\EstacionamentoConsole\\EstacionamentoConsole\\Program.cs",
               "RelativeDocumentMoniker": "EstacionamentoConsole\\Program.cs",
-              "ToolTip": "C:\\Users\\jefferson.acoelho\\OneDrive - SENAC - SP\\GITHUB\\TDS02-UC6\\Projetos\\EstacionamentoConsole\\EstacionamentoConsole\\Program.cs",
+              "ToolTip": "C:\\Users\\jefferson.acoelho\\Documents\\clone\\TDS02-UC6\\Projetos\\EstacionamentoConsole\\EstacionamentoConsole\\Program.cs",
               "RelativeToolTip": "EstacionamentoConsole\\Program.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAAADwAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T22:49:20.601Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-06T22:49:20.601Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ClienteController.cs",
-              "DocumentMoniker": "C:\\Users\\jefferson.acoelho\\OneDrive - SENAC - SP\\GITHUB\\TDS02-UC6\\Projetos\\EstacionamentoConsole\\EstacionamentoConsole\\Controllers\\ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\jefferson.acoelho\\Documents\\clone\\TDS02-UC6\\Projetos\\EstacionamentoConsole\\EstacionamentoConsole\\Controllers\\ClienteController.cs",
               "RelativeDocumentMoniker": "EstacionamentoConsole\\Controllers\\ClienteController.cs",
-              "ToolTip": "C:\\Users\\jefferson.acoelho\\OneDrive - SENAC - SP\\GITHUB\\TDS02-UC6\\Projetos\\EstacionamentoConsole\\EstacionamentoConsole\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\jefferson.acoelho\\Documents\\clone\\TDS02-UC6\\Projetos\\EstacionamentoConsole\\EstacionamentoConsole\\Controllers\\ClienteController.cs",
               "RelativeToolTip": "EstacionamentoConsole\\Controllers\\ClienteController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T22:49:15.459Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-06T22:49:15.459Z"
             }
           ]
         }
